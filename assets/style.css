@@ -145,7 +145,7 @@ header nav ul li a {
 .box2 {
     grid-column: 4 / span 1;
     grid-row: 1 / span 1;
-    background-image: url(./Images/HoriseonIMG.png);
+    background-image: url(./Images/marsapp.png);
     width: auto;
     height: auto;
     background-size: cover;
